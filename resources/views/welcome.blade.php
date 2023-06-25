@@ -1,7 +1,7 @@
 @include('common.master')
 
 @section('title')
-    <title>Home</title>
+    <title>Dashboard</title>
 @endsection
 
 @section('style')
